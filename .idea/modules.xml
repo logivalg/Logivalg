@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Logivalg.iml" filepath="$PROJECT_DIR$/.idea/Logivalg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logivalgdart/logivalgdart.iml" filepath="$PROJECT_DIR$/logivalgdart/logivalgdart.iml" />
     </modules>
   </component>
 </project>
