@@ -1,21 +1,18 @@
 
-
-
-
-
-
-
-
+import 'dart:convert';
 import 'dart:io';
+import 'dart:math';
 
-void main(){
+import 'package:test/expect.dart';
+
+void main() {
 
 
-  /*1. Using af for-loop, write a program that prints the first 10 natural numbers (1 to 10)and prints out their sum.
+  /*1. Using afor-loop, write a program that prints the first 10 natural numbers (1 to 10)and prints out their sum.
     The for-loop should be responsible for adding each num-ber to it’s previous sum.
     Finally print the sum.Correct sum is 55.*/
 
-
+/*
 {
     int i,sum=0;
     for(i=1;i<=10;i++)
@@ -24,7 +21,7 @@ void main(){
     }
     print("sum of number from 1 to 10 is $sum");
   }
-
+  */
 
 /*
 2. Write a program that accepts input number from user and prints the multiplica-tion (1-10)
@@ -62,9 +59,14 @@ for(i=1; i<=10; i++);
     */
 
 
- print("Skrifaðu tölu:");
-  String Number1Input = stdin.readLineSync();
-  int Number1 = int.parse(Number1Input);
+  print("Skrifaðu tölu:");
+  String? Number1Input = stdin.readLineSync();
+  int Number1 = int.parse(Number1Input!);
   print(Number1Input.length);
-
+  print("done");
 }
+
+
+
+
+

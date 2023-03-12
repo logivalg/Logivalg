@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5abd920c-9384-4d5a-84e1-a54f8e61ccb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logivalgdart/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/example/logivalgdart_example.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/lib/Assignment3.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/lib/assignment02.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/lib/hahah.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/lib/logi.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/lib/logivalgdart.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/lib/src/logivalgdart_base.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logivalgdart/test/logivalgdart_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Logivalg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Logivalg.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logivalgdart/lib/Assignment3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/logivalgdart/lib/Assignment3.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +25,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2fd92a6a-2a65-401f-8a24-9c73dfd86930" />
+        <option name="url" value="https://github.com/logivalg/Logivalg.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/logivalgdart/lib/hahah.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/logivalgdart/lib/Assignment3.dart" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,19 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/logi/Documents/GitHub/NTVBoilerplate/cheatSheet/assignment02.dart&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "two.files.diff.last.used.file": "/Users/logi/Documents/GitHub/NTVBoilerplate/cheatSheet/assignment02.dart"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Tests in logivalgdart" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <option name="filePath" value="$PROJECT_DIR$/logivalgdart" />
@@ -83,6 +81,51 @@
       <updated>1678008114048</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/logi/Documents/GitHub/Logivalg/.idea/libraries" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:/Users/logi/Documents/GitHub/Logivalg/.idea/libraries" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
